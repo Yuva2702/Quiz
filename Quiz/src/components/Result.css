@@ -1,0 +1,13 @@
+.result-container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+.retry-btn {
+  background: #ff9800;
+  color: #fff;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+}
